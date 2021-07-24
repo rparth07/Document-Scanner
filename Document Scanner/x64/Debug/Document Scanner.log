@@ -1,3 +1,25 @@
-﻿  Helllo-world.cpp
-C:\Users\KIshan\Downloads\repos\rparth07\Document Scanner\Document Scanner\Helllo-world.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  document-scanner.cpp
+C:\Users\KIshan\Downloads\repos\rparth07\Document Scanner\Document Scanner\document-scanner.cpp(35,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\KIshan\Downloads\repos\rparth07\Document Scanner\Document Scanner\document-scanner.cpp(38,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KIshan\Downloads\repos\rparth07\Document Scanner\Document Scanner\document-scanner.cpp(86,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KIshan\Downloads\repos\rparth07\Document Scanner\Document Scanner\document-scanner.cpp(86,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KIshan\Downloads\repos\rparth07\Document Scanner\Document Scanner\document-scanner.cpp(90,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\KIshan\Downloads\repos\rparth07\Document Scanner\Document Scanner\document-scanner.cpp(110,50): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\KIshan\Downloads\repos\rparth07\Document Scanner\Document Scanner\document-scanner.cpp(110,31): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
   Document Scanner.vcxproj -> C:\Users\KIshan\Downloads\repos\rparth07\Document Scanner\x64\Debug\Document Scanner.exe

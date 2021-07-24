@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Helllo-world.cpp">
+    <ClCompile Include="document-scanner.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
